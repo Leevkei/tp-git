@@ -1,10 +1,5 @@
 public class Main {
-<<<<<<< HEAD
-    //hellorfefngugiugu
-    //hgyigyi
-=======
-    //Projet de raniaaa
->>>>>>> bbeb4ca9d6c3fde7ee7da4a89515d715bf514304
+    //hellooo
     public static void main(String[] args) {
         System.out.println("bonjour raniaaaa");
     }
